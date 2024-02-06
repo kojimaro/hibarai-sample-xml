@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <source>
+  	<lastBuildDate><![CDATA[2018-02-01  0:00:00]]></lastBuildDate>
+  	<publisher><![CDATA[レンケイドットコム]]></publisher>
+  	<publisherurl><![CDATA[https://hibarai.com/]]></publisherurl>
+  	<job>
+  		<referencenumber><![CDATA[ab23456cd]]></referencenumber>
+  		<title><![CDATA[コールセンター・テレオペ]]></title>
+  		<jobtype><![CDATA[派遣社員]]></jobtype>
+  		<jobcategory>210201</jobcategory>
+  		<url><![CDATA[https://example.com/ab23456cd]]></url>
+  		<company><![CDATA[株式会社小島]]></company>
+  		<postalcode><![CDATA[120-0003]]></postalcode>
+  		<state><![CDATA[大阪府]]></state>
+  		<city><![CDATA[大阪市北区]]></city>
+  		<rawlocation><![CDATA[中之島1-1-1 〇〇ビル102]]></rawlocation>
+  		<station><![CDATA[地下鉄堺筋線北浜駅]]></station>
+  		<subwayaccess><![CDATA[地下鉄堺筋線北浜駅より徒歩5分]]></subwayaccess>
+  		<description><![CDATA[お客様からのお電話への受け答えをお願いします。]]></description>
+  		<salary><![CDATA[時給 1,000円]]></salary>
+  		<rawsalary><![CDATA[経験により優遇します]]></rawsalary>
+  		<education><![CDATA[高卒以上]]></education>
+  		<experience><![CDATA[中国語可能な方優遇]]></experience>
+  		<timeshift><![CDATA[9:00～18:00]]></timeshift>
+  		<holiday><![CDATA[土日祝]]></holiday>
+  		<feature><![CDATA[こちらから発信することはありません。お答えいただく内容もマニュアルに沿っての回答です。]]></feature>
+  		<benefits><![CDATA[交通費別途支給]]></benefits>
+  		<hires><![CDATA[若干名]]></hires>
+  		<keywords><![CDATA[未経験OK,短時間可]]></keywords>
+  		<question_flag><![CDATA[1]]></question_flag>
+  		<question_text><![CDATA[前職の業務内容を詳しく説明してください]]></question_text>
+  		<imageUrls><![CDATA[https://img.example.com/aaa,https://img.example.com/bbb]]></imageUrls>
+  		<entryUrl><![CDATA[https://example.com/aaa/1234/entry]]></entryUrl>
+  		<date><![CDATA[2024-02-06]]></date>
+      <expdate><![CDATA[2024-03-30]]></expdate>
+  	</job>
+  </source>
